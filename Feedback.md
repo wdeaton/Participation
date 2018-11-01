@@ -15,3 +15,5 @@
 # 4. Final
   
 - Write a small scientific journal. 
+
+Wyatt, Jessica, and Colton
